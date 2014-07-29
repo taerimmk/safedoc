@@ -13,71 +13,7 @@
 <%@ page language="java" contentType="text/html; charset=utf-8"
 	pageEncoding="utf-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
-<div class="footer-top">
-	<div class="container">
-		<div class="row sidebar">
-			<aside class="col-xs-12 col-sm-6 col-md-3 widget social">
-				<div class="title-block">
-					<h3 class="title">Follow Us</h3>
-				</div>
-				<p>Follow us in social media</p>
-				<a class="sbtnf sbtnf-rounded color color-hover icon-facebook"
-					href="#"></a> <a
-					class="sbtnf sbtnf-rounded color color-hover icon-twitter" href="#"></a>
-				<a class="sbtnf sbtnf-rounded color color-hover icon-gplus" href="#"></a>
-				<a class="sbtnf sbtnf-rounded color color-hover icon-linkedin"
-					href="#"></a>
-				<div class="clearfix"></div>
-			</aside>
 
-			<aside class="col-xs-12 col-sm-6 col-md-3 widget newsletter">
-				<div class="title-block">
-					<h3 class="title">Newsletter Signup</h3>
-				</div>
-				<div>
-					<p>Sign up for newsletter</p>
-					<div class="clearfix"></div>
-					<form>
-						<input class="form-control" type="email">
-						<button class="submit">
-							<span class="glyphicon glyphicon-arrow-right"></span>
-						</button>
-					</form>
-				</div>
-			</aside>
-			<!-- .newsletter -->
-
-			<aside class="col-xs-12 col-sm-6 col-md-3 widget links">
-				<div class="title-block">
-					<h3 class="title">Information</h3>
-				</div>
-				<nav>
-					<ul>
-						<li><a href="#">About us</a></li>
-						<li><a href="#">Privacy Policy</a></li>
-						<li><a href="#">Terms &amp; Condotions</a></li>
-						<li><a href="#">Secure payment</a></li>
-					</ul>
-				</nav>
-			</aside>
-
-			<aside class="col-xs-12 col-sm-6 col-md-3 widget links">
-				<div class="title-block">
-					<h3 class="title">My account</h3>
-				</div>
-				<nav>
-					<ul>
-						<li><a href="#">My account</a></li>
-						<li><a href="#">Order History</a></li>
-						<li><a href="#">Wish List</a></li>
-						<li><a href="#">Newsletter</a></li>
-					</ul>
-				</nav>
-			</aside>
-		</div>
-	</div>
-</div>
-<!-- .footer-top -->
 <div class="footer-bottom">
 	<div class="container">
 		<div class="row">
@@ -96,7 +32,7 @@
 				M11.001,12H5V2h6V12z"></path>
 			</svg>
 				</div>
-				<strong class="title">Call Us:</strong> +1 (877) 123-45-67 <br>
+				<strong class="title">Call Us:</strong> +1 (02) 595-7115 <br>
 				<strong>or</strong> +1 (777) 123-45-67
 			</div>
 

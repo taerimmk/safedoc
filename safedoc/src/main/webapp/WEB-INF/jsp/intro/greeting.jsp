@@ -19,390 +19,78 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-  <meta charset="utf-8">
-  <title>About Us \ Progressive — Responsive Multipurpose HTML Template</title>
-  <c:import url="/EgovPageLink.do?link=main/inc/headerResource" />
+<meta charset="utf-8">
+<title>인사말</title>
+<c:import url="/EgovPageLink.do?link=main/inc/headerResource" />
 </head>
-<body  class="fixed-header">
-<div class="page-box">
-<div class="page-box-content">
+<body class="fixed-header">
+	<div class="page-box">
+		<div class="page-box-content">
 
-<header class="header header-two">
-  <c:import url="/EgovPageLink.do?link=main/inc/EgovIncHeader" />
-</header><!-- .header -->
+			<header class="header header-two"> <c:import
+				url="/EgovPageLink.do?link=main/inc/EgovIncHeader" /> </header>
+			<!-- .header -->
 
-<div class="breadcrumb-box">
-  <div class="container">
-    <ul class="breadcrumb">
-      <li><a href="index.html">회사소개</a> </li>
-      <li class="active">인사말</li>
-    </ul>	
-  </div>
-</div><!-- .breadcrumb-box -->
+			<div class="breadcrumb-box">
+				<div class="container">
+					<ul class="breadcrumb">
+						<li><a href="index.html">회사소개</a></li>
+						<li class="active">인사말</li>
+					</ul>
+				</div>
+			</div>
+			<!-- .breadcrumb-box -->
 
-<section id="main">
-  <header class="page-header">
-    <div class="container">
-      <h1 class="title">About Us</h1>
-    </div>	
-  </header>
-  <div class="container">
-    <div class="row">
-      <article class="content col-sm-12 col-md-12">
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, quisquam, culpa, soluta hic aperiam porro ipsum nisi optio necessitatibus commodi dolorum sapiente voluptatem officiis similique maiores! Quaerat, quisquam quibusdam quam iure vel accusamus nisi velit est at et temporibus sunt delectus dolorem. Reprehenderit, possimus aperiam iste hic repudiandae tempora sit laborum ut velit id! Obcaecati at architecto in vitae porro.</p>
-		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur, similique nostrum perspiciatis cumque deleniti eaque odio temporibus accusantium necessitatibus? Perferendis, pariatur, ea, laborum ullam sit enim non odio fugiat in quas minima explicabo esse distinctio blanditiis doloremque eum eius repudiandae voluptatem aspernatur accusantium praesentium doloribus ratione aliquam inventore laudantium maiores aperiam minus quisquam unde. At asperiores voluptatem qui molestiae libero.</p>
-		<div class="row">
-		  <div class="clearfix"></div>
-		  <div class="bottom-padding col-sm-6 col-md-6">
-			<div class="title-box">
-			  <h2 class="title">Who Is Infostyle</h2>
+			<section id="main"> <header class="page-header">
+			<div class="container">
+				<h1 class="title">인사말</h1>
 			</div>
-			<div class="panel-group one-open" id="accordion">
-			  <div class="panel panel-default panel-bg active">
-				<div class="panel-heading">
-				  <div class="panel-title">
-					<a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-					  Portfolio Pages
-					</a>
-				  </div>
-				</div>
-				<div id="collapse1" class="panel-collapse collapse in">
-				  <div class="panel-body">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis quas ullam pariatur earum dignissimos consequatur velit nemo libero?
-				  </div>
-				</div>
-			  </div>
-			  
-			  <div class="panel panel-default panel-bg">
-				<div class="panel-heading">
-				  <div class="panel-title">
-					<a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-					  Gallery Pages
-					</a>
-				  </div>
-				</div>
-				<div id="collapse2" class="panel-collapse collapse">
-				  <div class="panel-body">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque natus quaerat voluptate? Asperiores hic dolore voluptate corporis obcaecati reiciendis sunt ipsam iste. Eligendi inventore voluptatibus quia saepe odit deserunt nam?
-				  </div>
-				</div>
-			  </div>
-			  
-			  <div class="panel panel-default panel-bg">
-				<div class="panel-heading">
-				  <div class="panel-title">
-					<a data-toggle="collapse" data-parent="#accordion" href="#collapse3">
-					  Styles Pages
-					</a>
-				  </div>
-				</div>
-				<div id="collapse3" class="panel-collapse collapse">
-				  <div class="panel-body">
-					<img src="img/content/animations.png" class="alignleft" width="100" height="62" alt="">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ipsa esse obcaecati repudiandae veniam amet modi recusandae optio earum sequi accusantium culpa vitae iste sit commodi eaque voluptatem officia quam. Molestiae nobis quidem atque explicabo eum facilis libero porro in fugiat pariatur molestias maiores voluptates rerum ipsa architecto quae assumenda harum fuga modi accusantium nihil dolor consequatur totam commodi quam quas neque dolorem veritatis unde adipisci ad illo excepturi quia facere reprehenderit non alias cum minima labore quo repudiandae perferendis?
-				  </div>
-				</div>
-			  </div>
-			  
-			  <div class="panel panel-default panel-bg">
-				<div class="panel-heading">
-				  <div class="panel-title">
-					<a data-toggle="collapse" data-parent="#accordion" href="#collapse4">
-					  Shop Pages
-					</a>
-				  </div>
-				</div>
-				<div id="collapse4" class="panel-collapse collapse">
-				  <div class="panel-body">
-					<img src="img/content/animations.png" class="alignleft" width="100" height="62" alt="">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ipsa esse obcaecati repudiandae veniam amet modi recusandae optio earum sequi accusantium culpa vitae iste sit commodi eaque voluptatem officia quam. Molestiae nobis quidem atque explicabo eum facilis libero porro in fugiat pariatur molestias maiores voluptates rerum ipsa architecto quae assumenda harum fuga modi accusantium nihil dolor consequatur totam commodi quam quas neque dolorem veritatis unde adipisci ad illo excepturi quia facere reprehenderit non alias cum minima labore quo repudiandae perferendis?
-				  </div>
-				</div>
-			  </div>
-			</div>
-		  </div>
-		  <div class="bottom-padding col-sm-6 col-md-6">
-			<div class="title-box">
-			  <h2 class="title">Our Crazy Skills</h2>
-			</div>
-			<div class="progress progress-striped active" data-appear-progress-animation="80%">
-			  <div class="progress-bar progress-bar-warning">Web Design 80%</div>
-			</div>
-			
-			<div class="progress progress-striped" data-appear-progress-animation="70%">
-			  <div class="progress-bar progress-bar-danger">HTML/CSS 70%</div>
-			</div>
-			
-			<div class="progress progress-striped hover" data-appear-progress-animation="40%">
-			  <div class="progress-bar progress-bar-success">Opencart 40%</div>
-			</div>
+			</header>
+			<div class="container">
+				<div class="row">
+					<article class="content col-sm-12 col-md-12">
+					<p>저희 홈페이지를 방문해 주셔서 감사합니다. 우리 연구원은 토목․건축 구조물의 구조설계, 구조물 진단,
+						토질․지반조사, 계측관리, 보수․보강, 구조 및 재료시험, 기술행정 등의 각 분야에서 다년간 쌓은 지식과 경험을 가진
+						우수한 기술진을 확보하고, 체계적이고 과학적으로 공신력있게 업무를 수행하고 있습니다.</p>
+					<p>구조물의 계획, 설계, 시공, 유지관리는 설계 및 시공기법은 물론 공법, 재료, 구조, 시험, 계측, 지반,
+						유지관리 전반에 대한 사항을 포함하는 고도의 종합적이고 공학적인 지식과 경험이 요구되기 때문에 구조물을 계획, 설계,
+						시공, 유지관리하는 기관은 종합엔지니어링의 특성을 갖는 것이 중요하다 할 수 있습니다. 그래서 우리 연구원은 명실 공히
+						구조물과 관련한 엔지니어링 활동주체의 종합기관을 지향하고 있습니다.</p>
+					<p>이러한 취지에서 우리연구원은 각종 토목건축구조물의 구조설계업무는 물론 건축물, 교량 및 터널, 수리시설 등에
+						대한 안전진단업무를 수행하고 있으며, 토질 및 기초, 건축설계분야의 엔지니어링 활동주체의 등록과 함께, 구조물 관련한
+						기술, 조사, 학술용역을 수행할 기업부설연구소를 두고 있습니다. 또한, 구조물의 개보수 및 보강을 전담할 별도의 시설물
+						유지관리 전문건설업체를 운영하고 있습니다. 우리 연구원이 지향하고 있는 토목․건축분야의 종합엔지니어링의 실현과 고도의
+						공학적인 기술력이 요구되는 구조물 설계분야에 대한 고급인력의 확보를 위하여 상시로 전문분야의 기술자를 초빙하고
+						있습니다.</p>
+					<p>우리 연구원은 현재 교량, 터널, 건축, 수리, 항만 구조물의 점검 및 진단, 구조설계, 감리, 토질조사,
+						계측관리, 보수․보강 및 진단기술의 연구에 이르기까지 구조물 전반에 관한 업무를 수행할 전문 기술인력과 체제를 갖추고
+						있습니다.</p>
+					<p>특히 그동안 경험한 진단기술과 보수보강의 경험을 공유하고 기술 자료의 출판을 위해 출판등록을 하여 도서로서
+						발행함으로서 구조물진단분야가 전문분야로의 발전을 도모하고 있습니다. 우리 임직원은 앞으로도 항상 열심히 정진하여
+						“정직하게 성실하게 내일을 개척하자”는 사훈을 모토로 사회에 건전한 구조물이 건설되고, 건전한 엔지니어링 문화가
+						형성되도록 진정 노력할 것입니다.</p>
+					<p>여러분의 아낌없는 협조와 성원을 부탁드리겠습니다. 끝으로 귀사와 여러분의 무궁한 발전을 기원합니다.
+						감사합니다.</p>
 
-			<div class="progress progress-striped active hover" data-appear-progress-animation="58%">
-			  <div class="progress-bar progress-bar-info">WordPress 58%</div>
+
+					<div class="clearfix"></div>
+
+					</article>
+					<!-- .content -->
+				</div>
 			</div>
-		  </div>
+			<!-- .container --> </section>
+			<!-- #main -->
+
 		</div>
-		  
-		<div class="clearfix"></div>
-		  
-		<div class="carousel-box bottom-padding bottom-padding-mini load">
-		  <div class="title-box no-margin">
-			<a class="next" href="#">
-			  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="9px" height="16px" viewBox="0 0 9 16" enable-background="new 0 0 9 16" xml:space="preserve">
-				<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#fcfcfc" points="1,0.001 0,1.001 7,8 0,14.999 1,15.999 9,8 "></polygon>
-			  </svg>
-			</a>
-			<a class="prev" href="#">
-			  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="9px" height="16px" viewBox="0 0 9 16" enable-background="new 0 0 9 16" xml:space="preserve">
-				<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#fcfcfc" points="8,15.999 9,14.999 2,8 9,1.001 8,0.001 0,8 "></polygon>
-			  </svg>
-			</a>
-			<h2 class="title">Meet Our Team</h2>
-		  </div>
-		  
-		  <div class="clearfix"></div>
-		  
-		  <div class="row">
-			<div class="carousel">
-			  <div class="col-sm-3 col-md-3 employee rotation">
-				<div class="default">
-				  <div class="image">
-					<img src="img/content/team-1.jpg" alt="" title="" width="270" height="270">
-				  </div>
-				  <div class="description">
-					<div class="vertical">
-					  <h3 class="name">Mett Rayan</h3>
-					  <div class="role">Manager</div>	
-					</div>
-				  </div>
-				</div>
-				<div class="employee-hover">
-				  <h3 class="name">Mett Rayan</h3>
-				  <div class="role">Manager</div>
-				  <div class="image">
-					<img src="img/content/team-1.jpg" alt="" title="" width="270" height="270">
-				  </div>
-				  <div>
-					<p>Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
-					<div class="contact"><b>Email: </b>mett@itembridge.com</div>
-					<div class="contact"><b>Phone: </b>11 555 333 77</div>
-				  </div>
-				  <div class="social">
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-facebook" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-twitter" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-gplus" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-linkedin" href="#"></a></div>
-				  </div>
-				</div><!-- .employee-hover -->
-			  </div><!-- .employee
-			  
-			  --><div class="col-sm-3 col-md-3 employee rotation">
-				<div class="default">
-				  <div class="image">
-					<img src="img/content/team-2.jpg" alt="" title="" width="270" height="270">
-				  </div>
-				  <div class="description">
-					<div class="vertical">
-					  <h3 class="name">Jon O. Example</h3>
-					  <div class="role">Web designer</div>	
-					</div>
-				  </div>
-				</div>
-				<div class="employee-hover">
-				  <h3 class="name">Jon O. Example</h3>
-				  <div class="role">Web designer</div>
-				  <div class="image">
-					<img src="img/content/team-2.jpg" alt="" title="" width="270" height="270">
-				  </div>
-				  <div>
-					<p>Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
-					<div class="contact"><b>Email: </b>mett@itembridge.com</div>
-					<div class="contact"><b>Phone: </b>11 555 333 77</div>
-				  </div>
-				  <div class="social">
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-facebook" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-twitter" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-gplus" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-linkedin" href="#"></a></div>
-				  </div>
-				</div><!-- .employee-hover -->
-			  </div><!-- .employee
-			  
-			  --><div class="col-sm-3 col-md-3 employee rotation">
-				<div class="default">
-				  <div class="image">
-					<img src="img/content/team-3.jpg" alt="" title="" width="270" height="270">
-				  </div>
-				  <div class="description">
-					<div class="vertical">
-					  <h3 class="name">Turanga Leela</h3>
-					  <div class="role">Graphic designer</div>	
-					</div>
-				  </div>
-				</div>
-				<div class="employee-hover">
-				  <h3 class="name">Turanga Leela</h3>
-				  <div class="role">Graphic designer</div>
-				  <div class="image">
-					<img src="img/content/team-3.jpg" alt="" title="" width="270" height="270">
-				  </div>
-				  <div>
-					<p>Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
-					<div class="contact"><b>Email: </b>mett@itembridge.com</div>
-					<div class="contact"><b>Phone: </b>11 555 333 77</div>
-				  </div>
-				  <div class="social">
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-facebook" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-twitter" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-gplus" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-linkedin" href="#"></a></div>
-				  </div>
-				</div><!-- .employee-hover -->
-			  </div><!-- .employee
-			  
-			  --><div class="col-sm-3 col-md-3 employee rotation">
-				<div class="default">
-				  <div class="image">
-					<img src="img/content/team-4.jpg" alt="" title="" width="270" height="270">
-				  </div>
-				  <div class="description">
-					<div class="vertical">
-					  <h3 class="name">David X. Cohen</h3>
-					  <div class="role">Developer</div>	
-					</div>
-				  </div>
-				</div>
-				<div class="employee-hover">
-				  <h3 class="name">David X. Cohen</h3>
-				  <div class="role">Developer</div>
-				  <div class="image">
-					<img src="img/content/team-4.jpg" alt="" title="" width="270" height="270">
-				  </div>
-				  <div>
-					<p>Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
-					<div class="contact"><b>Email: </b>mett@itembridge.com</div>
-					<div class="contact"><b>Phone: </b>11 555 333 77</div>
-				  </div>
-				  <div class="social">
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-facebook" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-twitter" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-gplus" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-linkedin" href="#"></a></div>
-				  </div>
-				</div><!-- .employee-hover -->
-			  </div><!-- .employee
-			  
-			  --><div class="col-sm-3 col-md-3 employee rotation">
-				<div class="default">
-				  <div class="image">
-					<img src="img/content/team-5.jpg" alt="" title="" width="270" height="270">
-				  </div>
-				  <div class="description">
-					<div class="vertical">
-					  <h3 class="name">Philip Fry</h3>
-					  <div class="role">Creative director</div>	
-					</div>
-				  </div>
-				</div>
-				<div class="employee-hover">
-				  <h3 class="name">Philip Fry</h3>
-				  <div class="role">Creative director</div>
-				  <div class="image">
-					<img src="img/content/team-5.jpg" alt="" title="" width="270" height="270">
-				  </div>
-				  <div>
-					<p>Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.</p>
-					<div class="contact"><b>Email: </b>mett@itembridge.com</div>
-					<div class="contact"><b>Phone: </b>11 555 333 77</div>
-				  </div>
-				  <div class="social">
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-facebook" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-twitter" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-gplus" href="#"></a></div>
-					<div class="item"><a class="sbtnf sbtnf-rounded color color-hover icon-linkedin" href="#"></a></div>
-				  </div>
-				</div><!-- .employee-hover -->
-			  </div><!-- .employee -->
-			</div>
-		  </div>
-		</div>
+		<!-- .page-box-content -->
+	</div>
+	<!-- .page-box -->
 
-		<div class="carousel-box load overflow">
-		  <div class="title-box">
-			<a class="next" href="#">
-			  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="9px" height="16px" viewBox="0 0 9 16" enable-background="new 0 0 9 16" xml:space="preserve">
-				<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#fcfcfc" points="1,0.001 0,1.001 7,8 0,14.999 1,15.999 9,8 "></polygon>
-			  </svg>
-			</a>
-			<a class="prev" href="#">
-			  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="9px" height="16px" viewBox="0 0 9 16" enable-background="new 0 0 9 16" xml:space="preserve">
-				<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#fcfcfc" points="8,15.999 9,14.999 2,8 9,1.001 8,0.001 0,8 "></polygon>
-			  </svg>
-			</a>
-			<h2 class="title">Our Happy Clients</h2>
-		  </div>
-		  
-		  <div class="clearfix"></div>
-		  
-		  <div class="row">
-			<div class="carousel carousel-links">
-			  <div class="col-sm-3 col-md-2">
-				<a href="#">
-				  <img src="img/content/team-5.jpg" class="img-rounded" width="170" height="170" alt="">
-				</a>
-			  </div>
-			  
-			  <div class="col-sm-3 col-md-2">
-				<a href="#">
-				  <img src="img/content/team-2.jpg" class="img-rounded" width="170" height="170" alt="">
-				</a>
-			  </div>
-			  
-			  <div class="col-sm-3 col-md-2">
-				<a href="#">
-				  <img src="img/content/team-3.jpg" class="img-rounded" width="170" height="170" alt="">
-				</a>
-			  </div>
-			  
-			  <div class="col-sm-3 col-md-2">
-				<a href="#">
-				  <img src="img/content/team-4.jpg" class="img-rounded" width="170" height="170" alt="">
-				</a>
-			  </div>
-			  
-			  <div class="col-sm-3 col-md-2">
-				<a href="#">
-				  <img src="img/content/team-1.jpg" class="img-rounded" width="170" height="170" alt="">
-				</a>
-			  </div>
-			  
-			  <div class="col-sm-3 col-md-2">
-				<a href="#">
-				  <img src="img/content/team-6.jpg" class="img-rounded" width="170" height="170" alt="">
-				</a>
-			  </div>
-			  
-			  <div class="col-sm-3 col-md-2">
-				<a href="#">
-				  <img src="img/content/team-7.jpg" class="img-rounded" width="170" height="170" alt="">
-				</a>
-			  </div>
-			</div>
-		  </div>
-		</div>
-      </article><!-- .content -->
-    </div>
-  </div><!-- .container -->
-</section><!-- #main -->
+	<footer id="footer"> <c:import
+		url="/EgovPageLink.do?link=main/inc/EgovIncFooter" /> </footer>
+	<div class="clearfix"></div>
 
-</div><!-- .page-box-content -->
-</div><!-- .page-box -->
-
-<footer id="footer">
-  <c:import url="/EgovPageLink.do?link=main/inc/EgovIncFooter" />
-</footer>
-<div class="clearfix"></div>
-
-<c:import url="/EgovPageLink.do?link=main/inc/footerResource" />
+	<c:import url="/EgovPageLink.do?link=main/inc/footerResource" />
 </body>
 </html>
