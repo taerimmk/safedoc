@@ -66,9 +66,9 @@
 					  <ul class="sub">
 						<li><a href="<c:url value="/EgovPageLink.do?link=intro/greeting"/>" >인사말</a></li>
 						<li><a href="<c:url value="/EgovPageLink.do?link=intro/comIntro"/>">회사소개</a></li>
-						<li><a href="home-3.html">원장소개</a></li>
-						<li><a href="home-4.html">조직도</a></li>
-						<li><a href="home-5.html">오시는길</a></li>
+						<li><a href="<c:url value="/EgovPageLink.do?link=intro/ceoIntro"/>">원장소개</a></li>
+						<li><a href="<c:url value="/EgovPageLink.do?link=intro/organization"/>">조직도</a></li>
+						<li><a href="<c:url value="/EgovPageLink.do?link=intro/location"/>">오시는길</a></li>
 					  </ul>
 					</li>
 					<li class="parent">
