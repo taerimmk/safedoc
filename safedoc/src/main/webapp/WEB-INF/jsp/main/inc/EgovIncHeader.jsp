@@ -81,13 +81,13 @@
 					<li class="parent">
 					  <a href="shop.html">주요실적</a>
 					</li>
-					<li class="parent megamenu promo">
+					<li class="parent">
 					  <a href="#">Q&A</a>
 					  <ul class="sub">
 						<li><a href="sidebar-blocks.html">Q&A 게시판</a></li>
 					  </ul><!-- .sub -->
 					</li>
-					<li class="parent megamenu promo">
+					<li class="parent">
 					  <a href="#">Contact</a>
 					  <ul class="sub">
 						<li><a href="sidebar-blocks.html">견적문의</a></li>
